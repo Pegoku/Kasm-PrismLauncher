@@ -1,0 +1,1139 @@
+{
+    "entries": [
+        {
+            "base": "FlameMods",
+            "current_age": 732,
+            "etag": "\"f40da760cca8f3066ae59ad03d03a125\"",
+            "last_changed_timestamp": 1671391165731,
+            "max_age": 86400,
+            "md5sum": "f40da760cca8f3066ae59ad03d03a125",
+            "path": "logos/636890440894617244",
+            "remote_changed_timestamp": "Fri, 28 Aug 2020 23:39:56 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 0,
+            "etag": "\"7cdbfb3d7a9bf01f3715acebd1b98ca8\"",
+            "last_changed_timestamp": 1671391149458,
+            "max_age": 14400,
+            "md5sum": "7cdbfb3d7a9bf01f3715acebd1b98ca8",
+            "path": "logos/1bHGioWI",
+            "remote_changed_timestamp": "Fri, 11 Nov 2022 04:49:04 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 0,
+            "etag": "\"9afdd0119f9655cbdb57ccbd81221e0c\"",
+            "last_changed_timestamp": 1671391056737,
+            "max_age": 14400,
+            "md5sum": "1aa3c4ed2cd72d86925f48f7d7863da2",
+            "path": "logos/3qsfQtE9",
+            "remote_changed_timestamp": "Sun, 23 Oct 2022 06:08:08 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 0,
+            "etag": "\"1909ecb0b839054e54b321e06c2901b3\"",
+            "last_changed_timestamp": 1671391059529,
+            "max_age": 14400,
+            "md5sum": "1909ecb0b839054e54b321e06c2901b3",
+            "path": "logos/7SDalH12",
+            "remote_changed_timestamp": "Sun, 23 Oct 2022 06:08:14 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 0,
+            "etag": "\"f46b1e1d1e994d39d69024d3a47fc17f\"",
+            "last_changed_timestamp": 1671391059517,
+            "max_age": 14400,
+            "md5sum": "f46b1e1d1e994d39d69024d3a47fc17f",
+            "path": "logos/8dI2tmqs",
+            "remote_changed_timestamp": "Sun, 23 Oct 2022 06:08:19 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 7154,
+            "etag": "\"2034563abd77dd7592578e09c558a577\"",
+            "last_changed_timestamp": 1671391102502,
+            "max_age": 14400,
+            "md5sum": "d0059899a8b38d1029077086734abbaa",
+            "path": "logos/9s6osm5g",
+            "remote_changed_timestamp": "Sun, 23 Oct 2022 06:08:36 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 0,
+            "etag": "\"0d7d678b8d91300374717a208782634d\"",
+            "last_changed_timestamp": 1671391055705,
+            "max_age": 14400,
+            "md5sum": "b6c8c0f0d7dfba8f300f6f9147f1f969",
+            "path": "logos/AANobbMI",
+            "remote_changed_timestamp": "Sun, 23 Oct 2022 06:08:28 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 0,
+            "etag": "\"a5e5a6a6d8d93bd9fa48f510e3394fed\"",
+            "last_changed_timestamp": 1671391148538,
+            "max_age": 14400,
+            "md5sum": "3549fa16789ea17db90baae3922b0c0b",
+            "path": "logos/BWloQ9jK",
+            "remote_changed_timestamp": "Sun, 23 Oct 2022 06:08:28 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 0,
+            "etag": "\"dd53b7d40cdb8a76f0c62fc28eb6c487\"",
+            "last_changed_timestamp": 1671391111426,
+            "max_age": 14400,
+            "md5sum": "c7bb36a3ab6d1c98fbf0552447ae7727",
+            "path": "logos/Bh37bMuy",
+            "remote_changed_timestamp": "Sun, 23 Oct 2022 06:08:28 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 0,
+            "etag": "\"edafff69343cc5ad4a321ed1795ec822\"",
+            "last_changed_timestamp": 1671391145702,
+            "max_age": 14400,
+            "md5sum": "bc868c1d911c40c0d8f9c86d195b2ac0",
+            "path": "logos/FWumhS4T",
+            "remote_changed_timestamp": "Sun, 23 Oct 2022 06:08:54 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 0,
+            "etag": "\"e3e755f88721f97b0b8aa5e589da3b3b\"",
+            "last_changed_timestamp": 1671391056741,
+            "max_age": 14400,
+            "md5sum": "200f8544616969833b50192185577018",
+            "path": "logos/Fb4jn8m6",
+            "remote_changed_timestamp": "Sun, 23 Oct 2022 06:08:49 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 0,
+            "etag": "\"e4f9f50eb0fa8ce4153b3d1806c7b77f\"",
+            "last_changed_timestamp": 1671391103046,
+            "max_age": 14400,
+            "md5sum": "1095d6fe8cbdec8c46d3a129d3909684",
+            "path": "logos/H8CaAYZC",
+            "remote_changed_timestamp": "Sun, 23 Oct 2022 06:09:02 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 0,
+            "etag": "\"4a48a3993e983897496126e70d9ba92e\"",
+            "last_changed_timestamp": 1671391056745,
+            "max_age": 14400,
+            "md5sum": "5d0c1702e0f418e3c7bacb727b8e29aa",
+            "path": "logos/Ha28R6CL",
+            "remote_changed_timestamp": "Sun, 23 Oct 2022 06:08:53 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 0,
+            "etag": "\"a668426a37a5abfa94a58f29c4d7ecfc\"",
+            "last_changed_timestamp": 1671391111422,
+            "max_age": 14400,
+            "md5sum": "39766c36e593d6af3de8898fd3460443",
+            "path": "logos/LQ3K71Q1",
+            "remote_changed_timestamp": "Sun, 23 Oct 2022 06:09:07 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 0,
+            "etag": "\"304b66528fbbd1fc0e4909c45b5336d9\"",
+            "last_changed_timestamp": 1671391066829,
+            "max_age": 14400,
+            "md5sum": "304b66528fbbd1fc0e4909c45b5336d9",
+            "path": "logos/Lf4kDKU9",
+            "remote_changed_timestamp": "Tue, 06 Dec 2022 06:26:00 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 0,
+            "etag": "\"443e1d22cef157ee5bea93d1eb8c333d\"",
+            "last_changed_timestamp": 1671391102818,
+            "max_age": 14400,
+            "md5sum": "034d6f2873941502e3fc57f310f3f041",
+            "path": "logos/NNAgCjsB",
+            "remote_changed_timestamp": "Sun, 23 Oct 2022 06:09:17 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 0,
+            "etag": "\"8dcf89b51083ab886d4f2350cd0f40c8\"",
+            "last_changed_timestamp": 1671391111870,
+            "max_age": 14400,
+            "md5sum": "395aad76aa247cb1e2f52193c25a2310",
+            "path": "logos/NRjRiSSD",
+            "remote_changed_timestamp": "Sun, 23 Oct 2022 06:09:17 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 0,
+            "etag": "\"dbfb04f569da7c1505cfc056b8eaa076\"",
+            "last_changed_timestamp": 1671391066513,
+            "max_age": 14400,
+            "md5sum": "15881d53773b38a8509e25b6bfbc737e",
+            "path": "logos/Nz0RSWrF",
+            "remote_changed_timestamp": "Sun, 23 Oct 2022 06:09:18 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 0,
+            "etag": "\"dbba01c31583ba209207ec44bd770769\"",
+            "last_changed_timestamp": 1671391102822,
+            "max_age": 14400,
+            "md5sum": "6c1e0380d36611c3730bb24f52d189a3",
+            "path": "logos/Orvt0mRa",
+            "remote_changed_timestamp": "Sun, 23 Oct 2022 06:09:31 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 0,
+            "etag": "\"0466d1cd6d3a1bda2031765188b8f23d\"",
+            "last_changed_timestamp": 1671391055705,
+            "max_age": 14400,
+            "md5sum": "e4464a432de659e829626ba7cb00ef54",
+            "path": "logos/P7dR8mSH",
+            "remote_changed_timestamp": "Sun, 23 Oct 2022 06:09:24 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 0,
+            "etag": "\"c88ba064bf4e39f2bbe084c72d836949\"",
+            "last_changed_timestamp": 1671391102986,
+            "max_age": 14400,
+            "md5sum": "be6908678f9d9b8b8452c6121c15a55f",
+            "path": "logos/PtjYWJkn",
+            "remote_changed_timestamp": "Sun, 23 Oct 2022 06:09:23 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 0,
+            "etag": "\"98338b140af9e90473e861cd354df881\"",
+            "last_changed_timestamp": 1671391145782,
+            "max_age": 14400,
+            "md5sum": "98338b140af9e90473e861cd354df881",
+            "path": "logos/QM2wt9X3",
+            "remote_changed_timestamp": "Sun, 23 Oct 2022 06:09:18 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 0,
+            "etag": "\"32699820db4793801aa8ef434625c8af\"",
+            "last_changed_timestamp": 1671391065461,
+            "max_age": 14400,
+            "md5sum": "a1ca31007e38e6b1ff9159e617e0161d",
+            "path": "logos/RTWpcTBp",
+            "remote_changed_timestamp": "Sun, 23 Oct 2022 06:09:36 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 3630,
+            "etag": "\"8381d49da0d0bc11f921b4834096731c\"",
+            "last_changed_timestamp": 1671391148326,
+            "max_age": 14400,
+            "md5sum": "8381d49da0d0bc11f921b4834096731c",
+            "path": "logos/UylF21yz",
+            "remote_changed_timestamp": "Sun, 23 Oct 2022 06:09:57 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 0,
+            "etag": "\"0de79ab71ce0f48209c63eacce187985\"",
+            "last_changed_timestamp": 1671391058317,
+            "max_age": 14400,
+            "md5sum": "71f605ba804d373abb969114e67dc577",
+            "path": "logos/WhbRG4iK",
+            "remote_changed_timestamp": "Sun, 23 Oct 2022 06:09:34 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 0,
+            "etag": "\"ea184a6ecdfd6dac197973e4db667110\"",
+            "last_changed_timestamp": 1671391058181,
+            "max_age": 14400,
+            "md5sum": "8dccfa94be1828978160bd6ad11fb5df",
+            "path": "logos/YBz7DOs8",
+            "remote_changed_timestamp": "Sun, 23 Oct 2022 06:10:01 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 0,
+            "etag": "\"20cd20a45d8fbb3aa85d2f66dae4fe42\"",
+            "last_changed_timestamp": 1671391055697,
+            "max_age": 14400,
+            "md5sum": "dda5a726127898a3d5b6883ba14edcf2",
+            "path": "logos/YL57xq9U",
+            "remote_changed_timestamp": "Wed, 16 Nov 2022 20:49:10 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 0,
+            "etag": "\"f950a75adde388daa869c576d7f6157a\"",
+            "last_changed_timestamp": 1671391146282,
+            "max_age": 14400,
+            "md5sum": "f950a75adde388daa869c576d7f6157a",
+            "path": "logos/dsV4LBXb",
+            "remote_changed_timestamp": "Tue, 15 Nov 2022 23:55:26 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 0,
+            "etag": "\"7c31db305cdd2ff8320a3a1eeaee17d6\"",
+            "last_changed_timestamp": 1671391145670,
+            "max_age": 14400,
+            "md5sum": "32aabb8922a9cfb5a92203ee5fc30c62",
+            "path": "logos/etNS9OnA",
+            "remote_changed_timestamp": "Sun, 23 Oct 2022 06:10:30 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 0,
+            "etag": "\"4a101a0c18d3fc760caf1841e169a491\"",
+            "last_changed_timestamp": 1671391110602,
+            "max_age": 14400,
+            "md5sum": "144e2f34ffb73d430fada9665d7aebde",
+            "path": "logos/fQEb0iXm",
+            "remote_changed_timestamp": "Sun, 23 Oct 2022 06:09:58 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 0,
+            "etag": "\"65a084a67d60dec31fc972894c287c37\"",
+            "last_changed_timestamp": 1671391058197,
+            "max_age": 14400,
+            "md5sum": "fbec1056d436625d9c1c1ac501414145",
+            "path": "logos/g8w1NapE",
+            "remote_changed_timestamp": "Sun, 23 Oct 2022 06:10:23 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 0,
+            "etag": "\"9500a006ba5cdbd2c5799f3ec1600dd1\"",
+            "last_changed_timestamp": 1671391055757,
+            "max_age": 14400,
+            "md5sum": "70010107a1288b61b84ecae263209f25",
+            "path": "logos/gvQqBUqZ",
+            "remote_changed_timestamp": "Sun, 23 Oct 2022 06:10:21 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 0,
+            "etag": "\"3eb2694ae3989f0ac6d1c4906c474e99\"",
+            "last_changed_timestamp": 1671391111390,
+            "max_age": 14400,
+            "md5sum": "25ad79ee27129edbb0f66b2059193473",
+            "path": "logos/hEOCdOgW",
+            "remote_changed_timestamp": "Sun, 23 Oct 2022 06:10:31 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 0,
+            "etag": "\"c818c62af1312d0a8667ff6e63fb7d4a\"",
+            "last_changed_timestamp": 1671391102822,
+            "max_age": 14400,
+            "md5sum": "5e2b10d7c1c5ccc6156f3e27dca304ab",
+            "path": "logos/hvFnDODi",
+            "remote_changed_timestamp": "Sun, 23 Oct 2022 06:10:04 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 0,
+            "etag": "\"3981e051b21e87c8f95b3aa51bf5bff5\"",
+            "last_changed_timestamp": 1671391058133,
+            "max_age": 14400,
+            "md5sum": "db5981cad591b8cbb04a60678d4e4363",
+            "path": "logos/kCpssoSb",
+            "remote_changed_timestamp": "Sun, 23 Oct 2022 06:10:33 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 0,
+            "etag": "\"da7ff4a8f5e90b3df48333f29b25c4f4\"",
+            "last_changed_timestamp": 1671391148382,
+            "max_age": 14400,
+            "md5sum": "da7ff4a8f5e90b3df48333f29b25c4f4",
+            "path": "logos/lGyRKMON",
+            "remote_changed_timestamp": "Sun, 13 Nov 2022 19:59:33 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 0,
+            "etag": "\"7478319c004f2bb61ec5628fb9d3a4b3\"",
+            "last_changed_timestamp": 1671391103066,
+            "max_age": 14400,
+            "md5sum": "40417da1cbf09703811b890fb36d11e1",
+            "path": "logos/lhGA9TYQ",
+            "remote_changed_timestamp": "Sun, 23 Oct 2022 06:10:12 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 0,
+            "etag": "\"f28337bfdced79e5f37a0eaa8d936c97\"",
+            "last_changed_timestamp": 1671391102750,
+            "max_age": 14400,
+            "md5sum": "b1a1433d3db2a4cd00102dfe746e2d77",
+            "path": "logos/mOgUt4GM",
+            "remote_changed_timestamp": "Sun, 23 Oct 2022 06:10:34 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 0,
+            "etag": "\"1e9a9d04087663f48eaafbf58890a97c\"",
+            "last_changed_timestamp": 1671391065497,
+            "max_age": 14400,
+            "md5sum": "db8386eccfc9cda34759443679bbe596",
+            "path": "logos/qjOfLjl2",
+            "remote_changed_timestamp": "Sun, 23 Oct 2022 06:10:59 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 0,
+            "etag": "\"d1ff433eb9d7a60b689acc5a78ff8ab3\"",
+            "last_changed_timestamp": 1671391058633,
+            "max_age": 14400,
+            "md5sum": "d1ff433eb9d7a60b689acc5a78ff8ab3",
+            "path": "logos/sTZr7NVo",
+            "remote_changed_timestamp": "Sun, 23 Oct 2022 06:11:03 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 2983,
+            "etag": "\"010bd5caf19ec6e2392cb4d2a5d54053\"",
+            "last_changed_timestamp": 1671391065193,
+            "max_age": 14400,
+            "md5sum": "d4236adfb3505d4a2b4aac20daa5cd97",
+            "path": "logos/uLbm7CG6",
+            "remote_changed_timestamp": "Sun, 23 Oct 2022 06:11:10 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 0,
+            "etag": "\"d183f320aed68cd5886153ddd0df86ef\"",
+            "last_changed_timestamp": 1671391102790,
+            "max_age": 14400,
+            "md5sum": "8597245dcc6d943c24643fb5a17b4d75",
+            "path": "logos/uXXizFIs",
+            "remote_changed_timestamp": "Sun, 23 Oct 2022 06:11:03 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 0,
+            "etag": "\"d526a1c3cb2ddec438dad7cbcd736dbf\"",
+            "last_changed_timestamp": 1671391148590,
+            "max_age": 14400,
+            "md5sum": "aae6d5a1a3d3c5e185c72066a825a9f5",
+            "path": "logos/vJnhuDde",
+            "remote_changed_timestamp": "Sun, 23 Oct 2022 06:11:14 GMT"
+        },
+        {
+            "base": "ModrinthPacks",
+            "current_age": 0,
+            "etag": "\"cabe1d4ec6201dc623192c592e8af59c\"",
+            "last_changed_timestamp": 1671391059521,
+            "max_age": 14400,
+            "md5sum": "cabe1d4ec6201dc623192c592e8af59c",
+            "path": "logos/x1hIzbuY",
+            "remote_changed_timestamp": "Wed, 16 Nov 2022 11:20:07 GMT"
+        },
+        {
+            "base": "asset_indexes",
+            "current_age": 0,
+            "etag": "0x8DAD834B13D68E3",
+            "last_changed_timestamp": 1671392373936,
+            "max_age": 1209600,
+            "md5sum": "90577e0f0b0eb0ba7e4bdca5a2ad30f5",
+            "path": "2.json",
+            "remote_changed_timestamp": "Wed, 07 Dec 2022 09:23:24 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DAB7EC4C07CCB6",
+            "eternal": true,
+            "last_changed_timestamp": 1671392351264,
+            "md5sum": "29b5d8d14f4dfc3f84731247a58927bf",
+            "path": "com/github/oshi/oshi-core/6.2.2/oshi-core-6.2.2.jar",
+            "remote_changed_timestamp": "Thu, 27 Oct 2022 07:24:34 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DAC3EBBF66A0EC",
+            "eternal": true,
+            "last_changed_timestamp": 1671392350568,
+            "md5sum": "76644f361fe16dc8026486635d157b39",
+            "path": "com/google/code/gson/gson/2.10/gson-2.10.jar",
+            "remote_changed_timestamp": "Fri, 11 Nov 2022 13:50:52 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DAB7EC22845B8D",
+            "eternal": true,
+            "last_changed_timestamp": 1671392350324,
+            "md5sum": "091883993ef5bfa91da01dcc8fc52236",
+            "path": "com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar",
+            "remote_changed_timestamp": "Thu, 27 Oct 2022 07:23:24 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DAB7EC2C158336",
+            "eternal": true,
+            "last_changed_timestamp": 1671392352544,
+            "md5sum": "e37782d974104aa3b0a7bee9927c8042",
+            "path": "com/google/guava/guava/31.1-jre/guava-31.1-jre.jar",
+            "remote_changed_timestamp": "Thu, 27 Oct 2022 07:23:40 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DAB7EC1EB98A24",
+            "eternal": true,
+            "last_changed_timestamp": 1671392373144,
+            "md5sum": "f59e87e2ed829e3d136a9184e147c50d",
+            "path": "com/ibm/icu/icu4j/71.1/icu4j-71.1.jar",
+            "remote_changed_timestamp": "Thu, 27 Oct 2022 07:23:18 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DAD12A1876DA2C",
+            "eternal": true,
+            "last_changed_timestamp": 1671392350836,
+            "md5sum": "ca0b6b3f070b11ffed859503293224b6",
+            "path": "com/mojang/authlib/3.16.29/authlib-3.16.29.jar",
+            "remote_changed_timestamp": "Mon, 28 Nov 2022 10:19:55 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DAB7EC4634A6BF",
+            "eternal": true,
+            "last_changed_timestamp": 1671392351108,
+            "md5sum": "fc1420e3182dd32b4df9933f810ebebb",
+            "path": "com/mojang/blocklist/1.0.10/blocklist-1.0.10.jar",
+            "remote_changed_timestamp": "Thu, 27 Oct 2022 07:24:24 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DAB7EC367D3C45",
+            "eternal": true,
+            "last_changed_timestamp": 1671392351292,
+            "md5sum": "5abfdce5dcec9ce29769b28aa455a6fb",
+            "path": "com/mojang/brigadier/1.0.18/brigadier-1.0.18.jar",
+            "remote_changed_timestamp": "Thu, 27 Oct 2022 07:23:58 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DAB7EC3279D736",
+            "eternal": true,
+            "last_changed_timestamp": 1671392351956,
+            "md5sum": "b9be462c07ecde5118ef532767c643cc",
+            "path": "com/mojang/datafixerupper/5.0.28/datafixerupper-5.0.28.jar",
+            "remote_changed_timestamp": "Thu, 27 Oct 2022 07:23:51 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DAB7EC39E4512E",
+            "eternal": true,
+            "last_changed_timestamp": 1671392351496,
+            "md5sum": "5e2049fe3b446998efb611a4f6f03c6f",
+            "path": "com/mojang/javabridge/2.0.25/javabridge-2.0.25.jar",
+            "remote_changed_timestamp": "Thu, 27 Oct 2022 07:24:03 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DAB7EC19678EC9",
+            "eternal": true,
+            "last_changed_timestamp": 1671392351520,
+            "md5sum": "3e448abd81afec16d287d93b0628813f",
+            "path": "com/mojang/logging/1.1.1/logging-1.1.1.jar",
+            "remote_changed_timestamp": "Thu, 27 Oct 2022 07:23:09 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DAD82CC7237560",
+            "eternal": true,
+            "last_changed_timestamp": 1671392371236,
+            "md5sum": "d055571df484ab5f04754a02db1517af",
+            "path": "com/mojang/minecraft/1.19.3/minecraft-1.19.3-client.jar",
+            "remote_changed_timestamp": "Wed, 07 Dec 2022 08:26:45 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DAB7EC4DC28215",
+            "eternal": true,
+            "last_changed_timestamp": 1671392351684,
+            "md5sum": "ff905bf0aacf501149a13880a2d6742d",
+            "path": "com/mojang/patchy/2.2.10/patchy-2.2.10.jar",
+            "remote_changed_timestamp": "Thu, 27 Oct 2022 07:24:37 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DAB7EC43C2A332",
+            "eternal": true,
+            "last_changed_timestamp": 1671392351876,
+            "md5sum": "baa277b17ccab11880332121917aff07",
+            "path": "com/mojang/text2speech-natives-linux/1.13.9/text2speech-natives-linux-1.13.9.jar",
+            "remote_changed_timestamp": "Thu, 27 Oct 2022 07:24:20 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DAB7EC34C7682F",
+            "eternal": true,
+            "last_changed_timestamp": 1671392351780,
+            "md5sum": "c3b067449cb94f6e8a0eef1af7feb179",
+            "path": "com/mojang/text2speech/1.13.9/text2speech-1.13.9.jar",
+            "remote_changed_timestamp": "Thu, 27 Oct 2022 07:23:55 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DAB7EC4D833871",
+            "eternal": true,
+            "last_changed_timestamp": 1671392352320,
+            "md5sum": "303baf002ce6d382198090aedd9d79a2",
+            "path": "commons-codec/commons-codec/1.15/commons-codec-1.15.jar",
+            "remote_changed_timestamp": "Thu, 27 Oct 2022 07:24:36 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DAB7EC1C19ED70",
+            "eternal": true,
+            "last_changed_timestamp": 1671392352576,
+            "md5sum": "3b4b7ccfaeceeac240b804839ee1a1ca",
+            "path": "commons-io/commons-io/2.11.0/commons-io-2.11.0.jar",
+            "remote_changed_timestamp": "Thu, 27 Oct 2022 07:23:13 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DAB7EC437FD7A4",
+            "eternal": true,
+            "last_changed_timestamp": 1671392352216,
+            "md5sum": "040b4b4d8eac886f6b4a2a3bd2f31b00",
+            "path": "commons-logging/commons-logging/1.2/commons-logging-1.2.jar",
+            "remote_changed_timestamp": "Thu, 27 Oct 2022 07:24:19 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DAB7EC23F62BBE",
+            "eternal": true,
+            "last_changed_timestamp": 1671392352736,
+            "md5sum": "47b1a2d86a0b211d971fc4156560f793",
+            "path": "io/netty/netty-buffer/4.1.82.Final/netty-buffer-4.1.82.Final.jar",
+            "remote_changed_timestamp": "Thu, 27 Oct 2022 07:23:26 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DAB7EC1C678CDA",
+            "eternal": true,
+            "last_changed_timestamp": 1671392352728,
+            "md5sum": "1159d0cdba19ca29a21c90f1409accb8",
+            "path": "io/netty/netty-codec/4.1.82.Final/netty-codec-4.1.82.Final.jar",
+            "remote_changed_timestamp": "Thu, 27 Oct 2022 07:23:14 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DAB7EC2A0762EA",
+            "eternal": true,
+            "last_changed_timestamp": 1671392356936,
+            "md5sum": "7ae14b5005c3cac74a82977245e957c3",
+            "path": "io/netty/netty-common/4.1.82.Final/netty-common-4.1.82.Final.jar",
+            "remote_changed_timestamp": "Thu, 27 Oct 2022 07:23:37 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DAB7EC4A450236",
+            "eternal": true,
+            "last_changed_timestamp": 1671392357184,
+            "md5sum": "a6c1b7878a9e90a365c572a9fd2f15cc",
+            "path": "io/netty/netty-handler/4.1.82.Final/netty-handler-4.1.82.Final.jar",
+            "remote_changed_timestamp": "Thu, 27 Oct 2022 07:24:31 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DAB7EC1C19C664",
+            "eternal": true,
+            "last_changed_timestamp": 1671392352844,
+            "md5sum": "acd354b623c1fc096dd601759d4da7a7",
+            "path": "io/netty/netty-resolver/4.1.82.Final/netty-resolver-4.1.82.Final.jar",
+            "remote_changed_timestamp": "Thu, 27 Oct 2022 07:23:13 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DAB7EC447055DA",
+            "eternal": true,
+            "last_changed_timestamp": 1671392356688,
+            "md5sum": "ffaf8f9be348cef0be51cdb9fd715afa",
+            "path": "io/netty/netty-transport-classes-epoll/4.1.82.Final/netty-transport-classes-epoll-4.1.82.Final.jar",
+            "remote_changed_timestamp": "Thu, 27 Oct 2022 07:24:21 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DAB7EC245F6565",
+            "eternal": true,
+            "last_changed_timestamp": 1671392356652,
+            "md5sum": "cbe515dc63ba520735f322b836c27fda",
+            "path": "io/netty/netty-transport-native-epoll/4.1.82.Final/netty-transport-native-epoll-4.1.82.Final-linux-aarch_64.jar",
+            "remote_changed_timestamp": "Thu, 27 Oct 2022 07:23:27 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DAB7EC1547A4F8",
+            "eternal": true,
+            "last_changed_timestamp": 1671392356656,
+            "md5sum": "156f85de9ab3a65603da8cfe764538ff",
+            "path": "io/netty/netty-transport-native-epoll/4.1.82.Final/netty-transport-native-epoll-4.1.82.Final-linux-x86_64.jar",
+            "remote_changed_timestamp": "Thu, 27 Oct 2022 07:23:02 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DAB7EC1B8F26F4",
+            "eternal": true,
+            "last_changed_timestamp": 1671392356756,
+            "md5sum": "8184757d93ca61b6a47c739798b6e249",
+            "path": "io/netty/netty-transport-native-unix-common/4.1.82.Final/netty-transport-native-unix-common-4.1.82.Final.jar",
+            "remote_changed_timestamp": "Thu, 27 Oct 2022 07:23:12 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DAB7EC163DC7B9",
+            "eternal": true,
+            "last_changed_timestamp": 1671392357060,
+            "md5sum": "763e0f1a9170807d91dcd25e26f09667",
+            "path": "io/netty/netty-transport/4.1.82.Final/netty-transport-4.1.82.Final.jar",
+            "remote_changed_timestamp": "Thu, 27 Oct 2022 07:23:03 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DAB7EC3FD88ECD",
+            "eternal": true,
+            "last_changed_timestamp": 1671392373436,
+            "md5sum": "a20da3754d5f4b8f297f9274f1843caa",
+            "path": "it/unimi/dsi/fastutil/8.5.9/fastutil-8.5.9.jar",
+            "remote_changed_timestamp": "Thu, 27 Oct 2022 07:24:13 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"61a8e2ff-7892\"",
+            "eternal": true,
+            "last_changed_timestamp": 1671392359732,
+            "md5sum": "b10766a61b0a230c06497a0bb96acd9d",
+            "path": "net/fabricmc/access-widener/2.1.0/access-widener-2.1.0.jar",
+            "remote_changed_timestamp": "Thu, 02 Dec 2021 15:15:11 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"63866497-c8224\"",
+            "eternal": true,
+            "last_changed_timestamp": 1671392360416,
+            "md5sum": "effdfa4a5b71a8bdd4d1cdc0fbc4c3f3",
+            "path": "net/fabricmc/fabric-loader/0.14.11/fabric-loader-0.14.11.jar",
+            "remote_changed_timestamp": "Tue, 29 Nov 2022 19:59:19 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"6390b924-840b7\"",
+            "eternal": true,
+            "last_changed_timestamp": 1671392359640,
+            "md5sum": "d10ea75214d9700f915c0d9b239d2ca0",
+            "path": "net/fabricmc/intermediary/1.19.3/intermediary-1.19.3.jar",
+            "remote_changed_timestamp": "Wed, 07 Dec 2022 16:02:44 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"627171aa-161da1\"",
+            "eternal": true,
+            "last_changed_timestamp": 1671392360012,
+            "md5sum": "82a550405ad18aca7233e126203fa76c",
+            "path": "net/fabricmc/sponge-mixin/0.11.4+mixin.0.8.5/sponge-mixin-0.11.4+mixin.0.8.5.jar",
+            "remote_changed_timestamp": "Tue, 03 May 2022 18:17:14 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"5ed53a7e-142ef\"",
+            "eternal": true,
+            "last_changed_timestamp": 1671392359300,
+            "md5sum": "2ecb50617a3a012062e53ca4cda50936",
+            "path": "net/fabricmc/tiny-mappings-parser/0.3.0+build.17/tiny-mappings-parser-0.3.0+build.17.jar",
+            "remote_changed_timestamp": "Mon, 01 Jun 2020 17:27:26 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"626042f3-34ec6\"",
+            "eternal": true,
+            "last_changed_timestamp": 1671392359844,
+            "md5sum": "8d42acb6a5ee7e7f5c4a8bf36700e16b",
+            "path": "net/fabricmc/tiny-remapper/0.8.2/tiny-remapper-0.8.2.jar",
+            "remote_changed_timestamp": "Wed, 20 Apr 2022 17:29:23 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DAB7EC2174C11D",
+            "eternal": true,
+            "last_changed_timestamp": 1671392357468,
+            "md5sum": "061ec627ed090f59104e33cea38c97cd",
+            "path": "net/java/dev/jna/jna-platform/5.12.1/jna-platform-5.12.1.jar",
+            "remote_changed_timestamp": "Thu, 27 Oct 2022 07:23:22 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DAB7EC46B276D3",
+            "eternal": true,
+            "last_changed_timestamp": 1671392358964,
+            "md5sum": "3bab13d7f5ca715013fcac64ceb4108d",
+            "path": "net/java/dev/jna/jna/5.12.1/jna-5.12.1.jar",
+            "remote_changed_timestamp": "Thu, 27 Oct 2022 07:24:25 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DAB7EC4420E1F8",
+            "eternal": true,
+            "last_changed_timestamp": 1671392357400,
+            "md5sum": "eb0d9dffe9b0eddead68fe678be76c49",
+            "path": "net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar",
+            "remote_changed_timestamp": "Thu, 27 Oct 2022 07:24:20 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DAB7EC2BA3E656",
+            "eternal": true,
+            "last_changed_timestamp": 1671392360952,
+            "md5sum": "2a713d10331bc4e13459a3dc0463f16f",
+            "path": "org/apache/commons/commons-compress/1.21/commons-compress-1.21.jar",
+            "remote_changed_timestamp": "Thu, 27 Oct 2022 07:23:39 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DAB7EC3D5E0104",
+            "eternal": true,
+            "last_changed_timestamp": 1671392357832,
+            "md5sum": "19fe50567358922bdad277959ea69545",
+            "path": "org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.jar",
+            "remote_changed_timestamp": "Thu, 27 Oct 2022 07:24:09 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DAB7EC3582D46C",
+            "eternal": true,
+            "last_changed_timestamp": 1671392357780,
+            "md5sum": "40d6b9075fbd28fa10292a45a0db9457",
+            "path": "org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13.jar",
+            "remote_changed_timestamp": "Thu, 27 Oct 2022 07:23:56 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DAB7EC1430B897",
+            "eternal": true,
+            "last_changed_timestamp": 1671392358052,
+            "md5sum": "be7c67929df007fcac6c8eff5322d3a0",
+            "path": "org/apache/httpcomponents/httpcore/4.4.15/httpcore-4.4.15.jar",
+            "remote_changed_timestamp": "Thu, 27 Oct 2022 07:23:00 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DAB7EC3A0CE1E1",
+            "eternal": true,
+            "last_changed_timestamp": 1671392358072,
+            "md5sum": "a7f8fc9751cdaa237a1e18059b4887da",
+            "path": "org/apache/logging/log4j/log4j-api/2.19.0/log4j-api-2.19.0.jar",
+            "remote_changed_timestamp": "Thu, 27 Oct 2022 07:24:04 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DAB7EC3F31B8F1",
+            "eternal": true,
+            "last_changed_timestamp": 1671392359344,
+            "md5sum": "b7f521926226a16531f8e212b1da1ffd",
+            "path": "org/apache/logging/log4j/log4j-core/2.19.0/log4j-core-2.19.0.jar",
+            "remote_changed_timestamp": "Thu, 27 Oct 2022 07:24:12 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DAB7EC2512205A",
+            "eternal": true,
+            "last_changed_timestamp": 1671392358464,
+            "md5sum": "da5fdc7ca6095583542ddecd0edfdcb8",
+            "path": "org/apache/logging/log4j/log4j-slf4j2-impl/2.19.0/log4j-slf4j2-impl-2.19.0.jar",
+            "remote_changed_timestamp": "Thu, 27 Oct 2022 07:23:28 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DAB7EC4ACEB767",
+            "eternal": true,
+            "last_changed_timestamp": 1671392358820,
+            "md5sum": "406b22ecc091923bbd37ecf8141a9576",
+            "path": "org/joml/joml/1.10.5/joml-1.10.5.jar",
+            "remote_changed_timestamp": "Thu, 27 Oct 2022 07:24:32 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DAB7EC3AE39A45",
+            "eternal": true,
+            "last_changed_timestamp": 1671392350016,
+            "md5sum": "9733e01a89dd81dc20847ee9ad4e2dbb",
+            "path": "org/lwjgl/lwjgl-glfw-natives-linux/3.3.1/lwjgl-glfw-natives-linux-3.3.1.jar",
+            "remote_changed_timestamp": "Thu, 27 Oct 2022 07:24:05 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DAB7EC4D017153",
+            "eternal": true,
+            "last_changed_timestamp": 1671392349764,
+            "md5sum": "2c2a2f1578d628bee49176b83637574e",
+            "path": "org/lwjgl/lwjgl-glfw/3.3.1/lwjgl-glfw-3.3.1.jar",
+            "remote_changed_timestamp": "Thu, 27 Oct 2022 07:24:35 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DAB7EC4A50723F",
+            "eternal": true,
+            "last_changed_timestamp": 1671392349996,
+            "md5sum": "9f308c21576261670de45ff8c34b4219",
+            "path": "org/lwjgl/lwjgl-jemalloc-natives-linux/3.3.1/lwjgl-jemalloc-natives-linux-3.3.1.jar",
+            "remote_changed_timestamp": "Thu, 27 Oct 2022 07:24:31 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DAB7EC28DC073F",
+            "eternal": true,
+            "last_changed_timestamp": 1671392349808,
+            "md5sum": "e70140b49aee2995f88bc6ebb8d1c2c0",
+            "path": "org/lwjgl/lwjgl-jemalloc/3.3.1/lwjgl-jemalloc-3.3.1.jar",
+            "remote_changed_timestamp": "Thu, 27 Oct 2022 07:23:35 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DAB7EC2F7E458B",
+            "eternal": true,
+            "last_changed_timestamp": 1671392349916,
+            "md5sum": "ae0ba195b5e56e5033b41bddf95541d1",
+            "path": "org/lwjgl/lwjgl-natives-linux/3.3.1/lwjgl-natives-linux-3.3.1.jar",
+            "remote_changed_timestamp": "Thu, 27 Oct 2022 07:23:46 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DAB7EC185BEB60",
+            "eternal": true,
+            "last_changed_timestamp": 1671392350244,
+            "md5sum": "074cfdf5d015694a4d0fb9da423df2e2",
+            "path": "org/lwjgl/lwjgl-openal-natives-linux/3.3.1/lwjgl-openal-natives-linux-3.3.1.jar",
+            "remote_changed_timestamp": "Thu, 27 Oct 2022 07:23:07 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DAB7EC1E7781C3",
+            "eternal": true,
+            "last_changed_timestamp": 1671392349852,
+            "md5sum": "42c34453d0d5cab0907da376f5ada98b",
+            "path": "org/lwjgl/lwjgl-openal/3.3.1/lwjgl-openal-3.3.1.jar",
+            "remote_changed_timestamp": "Thu, 27 Oct 2022 07:23:17 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DAB7EC47C3979F",
+            "eternal": true,
+            "last_changed_timestamp": 1671392350016,
+            "md5sum": "4e3e26107d9a2d995abc4b71d780aed9",
+            "path": "org/lwjgl/lwjgl-opengl-natives-linux/3.3.1/lwjgl-opengl-natives-linux-3.3.1.jar",
+            "remote_changed_timestamp": "Thu, 27 Oct 2022 07:24:27 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DAB7EC38505801",
+            "eternal": true,
+            "last_changed_timestamp": 1671392351840,
+            "md5sum": "198c85e7eb29ade7804513dd4733b53d",
+            "path": "org/lwjgl/lwjgl-opengl/3.3.1/lwjgl-opengl-3.3.1.jar",
+            "remote_changed_timestamp": "Thu, 27 Oct 2022 07:24:01 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DAB7EC4B20EA03",
+            "eternal": true,
+            "last_changed_timestamp": 1671392350212,
+            "md5sum": "12195cc0b643d7a9355949039e50cf41",
+            "path": "org/lwjgl/lwjgl-stb-natives-linux/3.3.1/lwjgl-stb-natives-linux-3.3.1.jar",
+            "remote_changed_timestamp": "Thu, 27 Oct 2022 07:24:32 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DAB7EC4147793F",
+            "eternal": true,
+            "last_changed_timestamp": 1671392350204,
+            "md5sum": "5fc0ee72e31794f1075416c9985d5d54",
+            "path": "org/lwjgl/lwjgl-stb/3.3.1/lwjgl-stb-3.3.1.jar",
+            "remote_changed_timestamp": "Thu, 27 Oct 2022 07:24:16 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DAB7EC297EE60A",
+            "eternal": true,
+            "last_changed_timestamp": 1671392350168,
+            "md5sum": "d5f7f67aa151641b66b4928b7f1ebdba",
+            "path": "org/lwjgl/lwjgl-tinyfd-natives-linux/3.3.1/lwjgl-tinyfd-natives-linux-3.3.1.jar",
+            "remote_changed_timestamp": "Thu, 27 Oct 2022 07:23:36 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DAB7EC42DB726D",
+            "eternal": true,
+            "last_changed_timestamp": 1671392350152,
+            "md5sum": "1e691d28712d00b979160c1bcc939309",
+            "path": "org/lwjgl/lwjgl-tinyfd/3.3.1/lwjgl-tinyfd-3.3.1.jar",
+            "remote_changed_timestamp": "Thu, 27 Oct 2022 07:24:18 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DAB7EC412BDEFD",
+            "eternal": true,
+            "last_changed_timestamp": 1671392351040,
+            "md5sum": "268db624c57a2c8abad40587f873fa8d",
+            "path": "org/lwjgl/lwjgl/3.3.1/lwjgl-3.3.1.jar",
+            "remote_changed_timestamp": "Thu, 27 Oct 2022 07:24:15 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"624f376e-85e4\"",
+            "eternal": true,
+            "last_changed_timestamp": 1671392359984,
+            "md5sum": "11e43c0220b3f6b4791b8abf7b4cc7ef",
+            "path": "org/ow2/asm/asm-analysis/9.3/asm-analysis-9.3.jar",
+            "remote_changed_timestamp": "Thu, 07 Apr 2022 19:11:42 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"624f3777-11c0c\"",
+            "eternal": true,
+            "last_changed_timestamp": 1671392359992,
+            "md5sum": "16e6ac17d33ad97baa415c42e9d93d38",
+            "path": "org/ow2/asm/asm-commons/9.3/asm-commons-9.3.jar",
+            "remote_changed_timestamp": "Thu, 07 Apr 2022 19:11:51 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"624f379a-cdbd\"",
+            "eternal": true,
+            "last_changed_timestamp": 1671392360076,
+            "md5sum": "f087bfb911ff93957e44860de3e73c46",
+            "path": "org/ow2/asm/asm-tree/9.3/asm-tree-9.3.jar",
+            "remote_changed_timestamp": "Thu, 07 Apr 2022 19:12:26 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"624f378c-14eb2\"",
+            "eternal": true,
+            "last_changed_timestamp": 1671392360080,
+            "md5sum": "d6d0ac4e5c0be9a25a426c70c714b17b",
+            "path": "org/ow2/asm/asm-util/9.3/asm-util-9.3.jar",
+            "remote_changed_timestamp": "Thu, 07 Apr 2022 19:12:12 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "\"624f3764-1dd40\"",
+            "eternal": true,
+            "last_changed_timestamp": 1671392359884,
+            "md5sum": "e1c3b96035117ab516ffe0de9bd696e0",
+            "path": "org/ow2/asm/asm/9.3/asm-9.3.jar",
+            "remote_changed_timestamp": "Thu, 07 Apr 2022 19:11:32 GMT"
+        },
+        {
+            "base": "libraries",
+            "etag": "0x8DAB7EC20A42238",
+            "eternal": true,
+            "last_changed_timestamp": 1671392358908,
+            "md5sum": "f83e57c047d1e3e226b77abc9141d233",
+            "path": "org/slf4j/slf4j-api/2.0.1/slf4j-api-2.0.1.jar",
+            "remote_changed_timestamp": "Thu, 27 Oct 2022 07:23:21 GMT"
+        },
+        {
+            "base": "meta",
+            "current_age": 0,
+            "etag": "W/\"639e1236-601\"",
+            "last_changed_timestamp": 1671391050661,
+            "max_age": 600,
+            "md5sum": "d501f6e6f86addeb728b9ea00f4dd07d",
+            "path": "index.json",
+            "remote_changed_timestamp": "Sat, 17 Dec 2022 19:02:14 GMT"
+        },
+        {
+            "base": "meta",
+            "current_age": 0,
+            "etag": "W/\"639e1236-66f\"",
+            "last_changed_timestamp": 1671392349268,
+            "max_age": 600,
+            "md5sum": "4168caf1c0be157520ef0a3f697ae9f8",
+            "path": "net.fabricmc.fabric-loader/0.14.11.json",
+            "remote_changed_timestamp": "Sat, 17 Dec 2022 19:02:14 GMT"
+        },
+        {
+            "base": "meta",
+            "current_age": 0,
+            "etag": "W/\"639e1236-1321c\"",
+            "last_changed_timestamp": 1671391033705,
+            "max_age": 600,
+            "md5sum": "a5841a7e1524310791236dd5a10dff83",
+            "path": "net.fabricmc.fabric-loader/index.json",
+            "remote_changed_timestamp": "Sat, 17 Dec 2022 19:02:14 GMT"
+        },
+        {
+            "base": "meta",
+            "current_age": 0,
+            "etag": "W/\"639e1236-1f4\"",
+            "last_changed_timestamp": 1671391050833,
+            "max_age": 600,
+            "md5sum": "3b4ec6d98399dedd5aeafe6efa509f4c",
+            "path": "net.fabricmc.intermediary/1.19.3.json",
+            "remote_changed_timestamp": "Sat, 17 Dec 2022 19:02:14 GMT"
+        },
+        {
+            "base": "meta",
+            "current_age": 0,
+            "etag": "W/\"639e1236-4f3b\"",
+            "last_changed_timestamp": 1671392349288,
+            "max_age": 600,
+            "md5sum": "1f312ca9ab648a19b5aba90845270db7",
+            "path": "net.minecraft/1.19.3.json",
+            "remote_changed_timestamp": "Sat, 17 Dec 2022 19:02:14 GMT"
+        },
+        {
+            "base": "meta",
+            "current_age": 27,
+            "etag": "W/\"639e1236-5098a\"",
+            "last_changed_timestamp": 1671391027289,
+            "max_age": 600,
+            "md5sum": "308736c3e535059193224683b730a069",
+            "path": "net.minecraft/index.json",
+            "remote_changed_timestamp": "Sat, 17 Dec 2022 19:02:14 GMT"
+        },
+        {
+            "base": "meta",
+            "current_age": 0,
+            "etag": "W/\"639e1236-97b0\"",
+            "last_changed_timestamp": 1671391050861,
+            "max_age": 600,
+            "md5sum": "9333e0ad477831f327e4df7335f07d65",
+            "path": "org.lwjgl3/3.3.1.json",
+            "remote_changed_timestamp": "Sat, 17 Dec 2022 19:02:14 GMT"
+        },
+        {
+            "base": "meta",
+            "current_age": 171,
+            "etag": "W/\"639e1236-864\"",
+            "last_changed_timestamp": 1671392353104,
+            "max_age": 600,
+            "md5sum": "926c59d08ffddb9e864232ea6a3a0e66",
+            "path": "org.lwjgl3/index.json",
+            "remote_changed_timestamp": "Sat, 17 Dec 2022 19:02:14 GMT"
+        },
+        {
+            "base": "translations",
+            "current_age": 9,
+            "etag": "W/\"639f5824-4757\"",
+            "last_changed_timestamp": 1671391011169,
+            "max_age": 600,
+            "md5sum": "e3d75886c2a038daba19c6cdc3303892",
+            "path": "index_v2.json",
+            "remote_changed_timestamp": "Sun, 18 Dec 2022 18:12:52 GMT"
+        }
+    ],
+    "version": "1"
+}

@@ -1,0 +1,218 @@
+    0.001 D <> Log initialized.
+    0.001 D <> No migration needed from "PolyMC"
+    0.002 D <> No migration needed from "MultiMC"
+    0.002 D "Prism Launcher" , (c) 2013-2021  "Prism Launcher Contributors\n© 2021-2022 PolyMC Contributors \n© 2012-2021 MultiMC Contributors"
+    0.002 D Version                    :  "6.0-release-6.x"
+    0.002 D Git commit                 :  "618bc562f958453d8f1bb37c0926ec17eff05656"
+    0.002 D Git refspec                :  "refs/heads/release-6.x"
+    0.002 D Work dir before adjustment :  "/home/kasm-user"
+    0.002 D Work dir after adjustment  :  "/home/kasm-user/prism/prism-p"
+    0.002 D Adjusted by                :  "Command line"
+    0.002 D Binary path                :  "/home/kasm-user/prism/prism-p/bin"
+    0.002 D Application root path      :  "/home/kasm-user/prism/prism-p"
+    0.002 D <> Paths set.
+    0.009 D Detected default console font: "DejaVu Sans Mono" , substitutions: ""
+    0.011 D <> Settings loaded.
+    0.015 D Detecting proxy settings...
+    0.015 D Using no proxy is an option!
+    0.015 D <> Network done.
+    0.015 C Exception: "Unable to open /home/kasm-user/prism/prism-p/translations/index_v2.json for reading: No such file or directory"
+    0.016 C Translations Download Failed: index file not readable
+    0.016 W Selected invalid language "" , defaulting to "en_US"
+    0.016 D Your language is ""
+    0.016 D <> Translations loaded.
+    0.016 D Started watching  "/home/kasm-user/prism/prism-p/icons"
+    0.016 D Sorting icon list...
+    0.016 D <> Instance icons intialized.
+    0.017 D [Theme] <> Icon themes initialized.
+    0.017 D [Theme] <> Initializing Widget Themes
+    0.017 D [Theme] Determining System Theme...
+    0.017 D [Theme] System theme seems to be: "fusion"
+    0.017 D [Theme] Considering theme from theme factory: "kvantum-dark"
+    0.017 D [Theme] Considering theme from theme factory: "kvantum"
+    0.017 D [Theme] Considering theme from theme factory: "cleanlooks"
+    0.017 D [Theme] Considering theme from theme factory: "gtk2"
+    0.017 D [Theme] Considering theme from theme factory: "cde"
+    0.017 D [Theme] Considering theme from theme factory: "motif"
+    0.017 D [Theme] Considering theme from theme factory: "plastique"
+    0.017 D [Theme] Considering theme from theme factory: "ukui-dark"
+    0.017 D [Theme] Considering theme from theme factory: "ukui-light"
+    0.017 D [Theme] Considering theme from theme factory: "ukui-default"
+    0.017 D [Theme] Considering theme from theme factory: "qt5ct-style"
+    0.017 D [Theme] Considering theme from theme factory: "ukui"
+    0.017 D [Theme] Considering theme from theme factory: "windows"
+    0.017 D [Theme] Considering theme from theme factory: "fusion"
+    0.017 D [Theme] System theme has been determined to be: "Fusion"
+    0.017 D [Theme] Loading Built-in Theme: "system"
+    0.017 D [Theme] Loading Built-in Theme: "dark"
+    0.017 D [Theme] Loading Built-in Theme: "bright"
+    0.017 D [Theme] Theme Folder Path:  "/home/kasm-user/prism/prism-p/themes"
+    0.017 D [Theme] <> Widget themes initialized.
+    0.017 D Instance path              :  "instances"
+    0.018 D Loading Instances...
+    0.018 D Discovering instances in "/home/kasm-user/prism/prism-p/instances"
+    0.018 D <> Instances loaded.
+    0.018 D Loading accounts...
+    0.018 C "Failed to read the account list file (accounts.json)."
+    0.018 D <> Accounts loaded.
+    0.018 D <> Cache initialized.
+    0.018 D Downloading Translations Index...
+    0.018 D Task "NetJob(Translations Index)" starting for the first time
+    0.018 D <> Icon theme set.
+    0.018 D [Theme] applying theme "System"
+    0.018 D <> Application theme set.
+    0.068 D Task "Net::Download(0x5631c4a43c50)" starting for the first time
+    0.068 D Downloading  "https://i18n.prismlauncher.org/index_v2.json"
+    0.072 D Dir changed: "/home/kasm-user/prism/prism-p/translations"
+    0.497 D Download succeeded: "https://i18n.prismlauncher.org/index_v2.json"
+    0.497 D Task "NetJob(Translations Index)" succeeded
+    0.497 D Got translations index!
+    0.498 W QAbstractItemModel::endInsertRows:  Invalid index ( 65 , 1 ) in model TranslationsModel(0x5631c49e0a60)
+    0.498 W QAbstractItemModel::endInsertRows:  Invalid index ( 65 , 0 ) in model TranslationsModel(0x5631c49e0a60)
+    0.519 W Cannot update builtin language "en_US"
+    0.522 D Dir changed: "/home/kasm-user/prism/prism-p/translations"
+    1.565 D Task "JavaListLoadTask(0x5631c4f40f90)" starting for the first time
+    1.565 D Linux Java detection incomplete - defaulting to "java"
+    1.566 D Probing the following Java paths: 
+    1.566 D   "java"
+    1.566 D   "/usr/java/jre1.8.0_351/jre/bin/java"
+    1.566 D   "/usr/java/jre1.8.0_351/bin/java"
+    1.566 D   "/usr/lib/jvm/jdk-17/jre/bin/java"
+    1.566 D   "/usr/lib/jvm/jdk-17/bin/java"
+    1.566 D   ""
+    1.566 D Task "JavaCheckerJob(0x5631c4dc9000)" starting for the first time
+    1.566 D "Java detection"  started.
+    1.566 D Env: ignoring "LAUNCHER_LD_LIBRARY_PATH" "/home/kasm-user/prism/prism-p/lib"
+    1.566 D Env: ignoring "LAUNCHER_LD_PRELOAD" ""
+    1.566 D Env: ignoring "LAUNCHER_QT_FONTPATH" "/home/kasm-user/prism/prism-p/fonts"
+    1.566 D Env: ignoring "LAUNCHER_QT_PLUGIN_PATH" "/home/kasm-user/prism/prism-p/plugins"
+    1.566 D Env: stripped "LD_LIBRARY_PATH" "/home/kasm-user/prism/prism-p/lib:/usr/lib/x86_64-linux-gnu:/usr/lib/i386-linux-gnu:/opt/libjpeg-turbo/lib64/:/usr/local/lib/:/usr/local/nvidia/lib:/usr/local/nvidia/lib64" to "/usr/lib/x86_64-linux-gnu:/usr/lib/i386-linux-gnu:/opt/libjpeg-turbo/lib64/:/usr/local/lib/:/usr/local/nvidia/lib:/usr/local/nvidia/lib64"
+    1.566 D Env: stripped "LD_PRELOAD" ":" to ""
+    1.566 D Env: stripped "QT_FONTPATH" "/home/kasm-user/prism/prism-p/fonts:" to ""
+    1.566 D Env: stripped "QT_PLUGIN_PATH" "/home/kasm-user/prism/prism-p/plugins:" to ""
+    1.566 D "Running java checker: java-jar /home/kasm-user/prism/prism-p/share/prismlauncher/JavaCheck.jar"
+    1.567 D Env: ignoring "LAUNCHER_LD_LIBRARY_PATH" "/home/kasm-user/prism/prism-p/lib"
+    1.567 D Env: ignoring "LAUNCHER_LD_PRELOAD" ""
+    1.567 D Env: ignoring "LAUNCHER_QT_FONTPATH" "/home/kasm-user/prism/prism-p/fonts"
+    1.568 D Env: ignoring "LAUNCHER_QT_PLUGIN_PATH" "/home/kasm-user/prism/prism-p/plugins"
+    1.568 D Env: stripped "LD_LIBRARY_PATH" "/home/kasm-user/prism/prism-p/lib:/usr/lib/x86_64-linux-gnu:/usr/lib/i386-linux-gnu:/opt/libjpeg-turbo/lib64/:/usr/local/lib/:/usr/local/nvidia/lib:/usr/local/nvidia/lib64" to "/usr/lib/x86_64-linux-gnu:/usr/lib/i386-linux-gnu:/opt/libjpeg-turbo/lib64/:/usr/local/lib/:/usr/local/nvidia/lib:/usr/local/nvidia/lib64"
+    1.568 D Env: stripped "LD_PRELOAD" ":" to ""
+    1.568 D Env: stripped "QT_FONTPATH" "/home/kasm-user/prism/prism-p/fonts:" to ""
+    1.568 D Env: stripped "QT_PLUGIN_PATH" "/home/kasm-user/prism/prism-p/plugins:" to ""
+    1.568 D "Running java checker: /usr/java/jre1.8.0_351/jre/bin/java-jar /home/kasm-user/prism/prism-p/share/prismlauncher/JavaCheck.jar"
+    1.568 D Env: ignoring "LAUNCHER_LD_LIBRARY_PATH" "/home/kasm-user/prism/prism-p/lib"
+    1.568 D Env: ignoring "LAUNCHER_LD_PRELOAD" ""
+    1.569 D Env: ignoring "LAUNCHER_QT_FONTPATH" "/home/kasm-user/prism/prism-p/fonts"
+    1.569 D Env: ignoring "LAUNCHER_QT_PLUGIN_PATH" "/home/kasm-user/prism/prism-p/plugins"
+    1.569 D Env: stripped "LD_LIBRARY_PATH" "/home/kasm-user/prism/prism-p/lib:/usr/lib/x86_64-linux-gnu:/usr/lib/i386-linux-gnu:/opt/libjpeg-turbo/lib64/:/usr/local/lib/:/usr/local/nvidia/lib:/usr/local/nvidia/lib64" to "/usr/lib/x86_64-linux-gnu:/usr/lib/i386-linux-gnu:/opt/libjpeg-turbo/lib64/:/usr/local/lib/:/usr/local/nvidia/lib:/usr/local/nvidia/lib64"
+    1.569 D Env: stripped "LD_PRELOAD" ":" to ""
+    1.569 D Env: stripped "QT_FONTPATH" "/home/kasm-user/prism/prism-p/fonts:" to ""
+    1.569 D Env: stripped "QT_PLUGIN_PATH" "/home/kasm-user/prism/prism-p/plugins:" to ""
+    1.569 D "Running java checker: /usr/java/jre1.8.0_351/bin/java-jar /home/kasm-user/prism/prism-p/share/prismlauncher/JavaCheck.jar"
+    1.569 D Env: ignoring "LAUNCHER_LD_LIBRARY_PATH" "/home/kasm-user/prism/prism-p/lib"
+    1.570 D Env: ignoring "LAUNCHER_LD_PRELOAD" ""
+    1.570 D Env: ignoring "LAUNCHER_QT_FONTPATH" "/home/kasm-user/prism/prism-p/fonts"
+    1.570 D Env: ignoring "LAUNCHER_QT_PLUGIN_PATH" "/home/kasm-user/prism/prism-p/plugins"
+    1.570 D Env: stripped "LD_LIBRARY_PATH" "/home/kasm-user/prism/prism-p/lib:/usr/lib/x86_64-linux-gnu:/usr/lib/i386-linux-gnu:/opt/libjpeg-turbo/lib64/:/usr/local/lib/:/usr/local/nvidia/lib:/usr/local/nvidia/lib64" to "/usr/lib/x86_64-linux-gnu:/usr/lib/i386-linux-gnu:/opt/libjpeg-turbo/lib64/:/usr/local/lib/:/usr/local/nvidia/lib:/usr/local/nvidia/lib64"
+    1.570 D Env: stripped "LD_PRELOAD" ":" to ""
+    1.570 D Env: stripped "QT_FONTPATH" "/home/kasm-user/prism/prism-p/fonts:" to ""
+    1.570 D Env: stripped "QT_PLUGIN_PATH" "/home/kasm-user/prism/prism-p/plugins:" to ""
+    1.570 D "Running java checker: /usr/lib/jvm/jdk-17/jre/bin/java-jar /home/kasm-user/prism/prism-p/share/prismlauncher/JavaCheck.jar"
+    1.570 D Env: ignoring "LAUNCHER_LD_LIBRARY_PATH" "/home/kasm-user/prism/prism-p/lib"
+    1.571 D Env: ignoring "LAUNCHER_LD_PRELOAD" ""
+    1.571 D Env: ignoring "LAUNCHER_QT_FONTPATH" "/home/kasm-user/prism/prism-p/fonts"
+    1.571 D Env: ignoring "LAUNCHER_QT_PLUGIN_PATH" "/home/kasm-user/prism/prism-p/plugins"
+    1.571 D Env: stripped "LD_LIBRARY_PATH" "/home/kasm-user/prism/prism-p/lib:/usr/lib/x86_64-linux-gnu:/usr/lib/i386-linux-gnu:/opt/libjpeg-turbo/lib64/:/usr/local/lib/:/usr/local/nvidia/lib:/usr/local/nvidia/lib64" to "/usr/lib/x86_64-linux-gnu:/usr/lib/i386-linux-gnu:/opt/libjpeg-turbo/lib64/:/usr/local/lib/:/usr/local/nvidia/lib:/usr/local/nvidia/lib64"
+    1.571 D Env: stripped "LD_PRELOAD" ":" to ""
+    1.571 D Env: stripped "QT_FONTPATH" "/home/kasm-user/prism/prism-p/fonts:" to ""
+    1.571 D Env: stripped "QT_PLUGIN_PATH" "/home/kasm-user/prism/prism-p/plugins:" to ""
+    1.571 D "Running java checker: /usr/lib/jvm/jdk-17/bin/java-jar /home/kasm-user/prism/prism-p/share/prismlauncher/JavaCheck.jar"
+    1.572 D Env: ignoring "LAUNCHER_LD_LIBRARY_PATH" "/home/kasm-user/prism/prism-p/lib"
+    1.572 D Env: ignoring "LAUNCHER_LD_PRELOAD" ""
+    1.572 D Env: ignoring "LAUNCHER_QT_FONTPATH" "/home/kasm-user/prism/prism-p/fonts"
+    1.572 D Env: ignoring "LAUNCHER_QT_PLUGIN_PATH" "/home/kasm-user/prism/prism-p/plugins"
+    1.572 D Env: stripped "LD_LIBRARY_PATH" "/home/kasm-user/prism/prism-p/lib:/usr/lib/x86_64-linux-gnu:/usr/lib/i386-linux-gnu:/opt/libjpeg-turbo/lib64/:/usr/local/lib/:/usr/local/nvidia/lib:/usr/local/nvidia/lib64" to "/usr/lib/x86_64-linux-gnu:/usr/lib/i386-linux-gnu:/opt/libjpeg-turbo/lib64/:/usr/local/lib/:/usr/local/nvidia/lib:/usr/local/nvidia/lib64"
+    1.572 D Env: stripped "LD_PRELOAD" ":" to ""
+    1.572 D Env: stripped "QT_FONTPATH" "/home/kasm-user/prism/prism-p/fonts:" to ""
+    1.572 D Env: stripped "QT_PLUGIN_PATH" "/home/kasm-user/prism/prism-p/plugins:" to ""
+    1.572 D "Running java checker: -jar /home/kasm-user/prism/prism-p/share/prismlauncher/JavaCheck.jar"
+    1.572 D Java checker has failed to start.
+    1.572 D Process environment:
+    1.572 D ("AUDIO_PORT=4901", "COLORTERM=truecolor", "DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-24uW2yaQAr,guid=eca5c663c28e5689e8b14bc8639f66e0", "DEBIAN_FRONTEND=noninteractive", "DESKTOP_SESSION=xfce", "DISPLAY=:1.0", "HOME=/home/kasm-user", "HOSTNAME=39b59648c883", "INST_SCRIPTS=/dockerstartup/install", "KASMVNC_AUTO_RECOVER=true", "KASM_VNC_PATH=/usr/share/kasmvnc", "LANG=en_US.UTF-8", "LANGUAGE=en_US:en", "LC_ALL=en_US.UTF-8", "LD_LIBRARY_PATH=/home/kasm-user/prism/prism-p/lib:/usr/lib/x86_64-linux-gnu:/usr/lib/i386-linux-gnu:/opt/libjpeg-turbo/lib64/:/usr/local/lib/:/usr/local/nvidia/lib:/usr/local/nvidia/lib64", "LD_PRELOAD=:", "MAX_FRAME_RATE=24", "NO_VNC_PORT=6901", "NVIDIA_DRIVER_CAPABILITIES=graphics,compat32,utility", "OMP_WAIT_POLICY=PASSIVE", "PANEL_GDK_CORE_DEVICE_EVENTS=0", "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin", "PULSE_RUNTIME_PATH=/var/run/pulse", "PWD=/home/kasm-user", "QT_FONTPATH=/home/kasm-user/prism/prism-p/fonts:", "QT_PLUGIN_PATH=/home/kasm-user/prism/prism-p/plugins:", "SDL_GAMECONTROLLERCONFIG=030000005e040000be02000014010000,XInput Controller,platform:Linux,a:b0,b:b1,x:b2,y:b3,back:b8,guide:b16,start:b9,leftstick:b10,rightstick:b11,leftshoulder:b4,rightshoulder:b5,dpup:b12,dpdown:b13,dpleft:b14,dpright:b15,leftx:a0,lefty:a1,rightx:a2,righty:a3,lefttrigger:b6,righttrigger:b7", "SESSION_MANAGER=local/39b59648c883:@/tmp/.ICE-unix/75,unix/39b59648c883:/tmp/.ICE-unix/75", "SHELL=/bin/bash", "SHLVL=1", "SSH_AGENT_PID=199", "SSH_AUTH_SOCK=/tmp/ssh-vN0oeEXLgZZh/agent.198", "STARTUPDIR=/dockerstartup", "START_PULSEAUDIO=1", "START_XFCE4=1", "TERM=xterm-256color", "VNCOPTIONS=-PreferBandwidth -DynamicQualityMin=4 -DynamicQualityMax=7 -DLP_ClipDelay=0 -select-de manual", "VNC_COL_DEPTH=24", "VNC_PORT=5901", "VNC_RESOLUTION=1280x1024", "VTE_VERSION=6003", "WINDOWID=48234499", "XDG_CONFIG_DIRS=/etc/xdg", "XDG_CURRENT_DESKTOP=XFCE", "XDG_DATA_DIRS=/usr/local/share:/usr/share", "XDG_MENU_PREFIX=xfce-")
+    1.572 D Native environment:
+    1.572 D ("AUDIO_PORT=4901", "COLORTERM=truecolor", "DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-24uW2yaQAr,guid=eca5c663c28e5689e8b14bc8639f66e0", "DEBIAN_FRONTEND=noninteractive", "DESKTOP_SESSION=xfce", "DISPLAY=:1.0", "HOME=/home/kasm-user", "HOSTNAME=39b59648c883", "INST_SCRIPTS=/dockerstartup/install", "KASMVNC_AUTO_RECOVER=true", "KASM_VNC_PATH=/usr/share/kasmvnc", "LANG=en_US.UTF-8", "LANGUAGE=en_US:en", "LAUNCHER_LD_LIBRARY_PATH=/home/kasm-user/prism/prism-p/lib", "LAUNCHER_LD_PRELOAD=", "LAUNCHER_QT_FONTPATH=/home/kasm-user/prism/prism-p/fonts", "LAUNCHER_QT_PLUGIN_PATH=/home/kasm-user/prism/prism-p/plugins", "LC_ALL=en_US.UTF-8", "LD_LIBRARY_PATH=/home/kasm-user/prism/prism-p/lib:/usr/lib/x86_64-linux-gnu:/usr/lib/i386-linux-gnu:/opt/libjpeg-turbo/lib64/:/usr/local/lib/:/usr/local/nvidia/lib:/usr/local/nvidia/lib64", "LD_PRELOAD=:", "MAX_FRAME_RATE=24", "NO_VNC_PORT=6901", "NVIDIA_DRIVER_CAPABILITIES=graphics,compat32,utility", "OMP_WAIT_POLICY=PASSIVE", "PANEL_GDK_CORE_DEVICE_EVENTS=0", "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin", "PULSE_RUNTIME_PATH=/var/run/pulse", "PWD=/home/kasm-user", "QT_FONTPATH=/home/kasm-user/prism/prism-p/fonts:", "QT_PLUGIN_PATH=/home/kasm-user/prism/prism-p/plugins:", "SDL_GAMECONTROLLERCONFIG=030000005e040000be02000014010000,XInput Controller,platform:Linux,a:b0,b:b1,x:b2,y:b3,back:b8,guide:b16,start:b9,leftstick:b10,rightstick:b11,leftshoulder:b4,rightshoulder:b5,dpup:b12,dpdown:b13,dpleft:b14,dpright:b15,leftx:a0,lefty:a1,rightx:a2,righty:a3,lefttrigger:b6,righttrigger:b7", "SESSION_MANAGER=local/39b59648c883:@/tmp/.ICE-unix/75,unix/39b59648c883:/tmp/.ICE-unix/75", "SHELL=/bin/bash", "SHLVL=1", "SSH_AGENT_PID=199", "SSH_AUTH_SOCK=/tmp/ssh-vN0oeEXLgZZh/agent.198", "STARTUPDIR=/dockerstartup", "START_PULSEAUDIO=1", "START_XFCE4=1", "TERM=xterm-256color", "VNCOPTIONS=-PreferBandwidth -DynamicQualityMin=4 -DynamicQualityMax=7 -DLP_ClipDelay=0 -select-de manual", "VNC_COL_DEPTH=24", "VNC_PORT=5901", "VNC_RESOLUTION=1280x1024", "VTE_VERSION=6003", "WINDOWID=48234499", "XDG_CONFIG_DIRS=/etc/xdg", "XDG_CURRENT_DESKTOP=XFCE", "XDG_DATA_DIRS=/usr/local/share:/usr/share", "XDG_MENU_PREFIX=xfce-")
+    1.572 D "Java detection" progress: 1 / 6
+    1.594 D Java checker has failed to start.
+    1.594 D Process environment:
+    1.594 D ("AUDIO_PORT=4901", "COLORTERM=truecolor", "DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-24uW2yaQAr,guid=eca5c663c28e5689e8b14bc8639f66e0", "DEBIAN_FRONTEND=noninteractive", "DESKTOP_SESSION=xfce", "DISPLAY=:1.0", "HOME=/home/kasm-user", "HOSTNAME=39b59648c883", "INST_SCRIPTS=/dockerstartup/install", "KASMVNC_AUTO_RECOVER=true", "KASM_VNC_PATH=/usr/share/kasmvnc", "LANG=en_US.UTF-8", "LANGUAGE=en_US:en", "LC_ALL=en_US.UTF-8", "LD_LIBRARY_PATH=/home/kasm-user/prism/prism-p/lib:/usr/lib/x86_64-linux-gnu:/usr/lib/i386-linux-gnu:/opt/libjpeg-turbo/lib64/:/usr/local/lib/:/usr/local/nvidia/lib:/usr/local/nvidia/lib64", "LD_PRELOAD=:", "MAX_FRAME_RATE=24", "NO_VNC_PORT=6901", "NVIDIA_DRIVER_CAPABILITIES=graphics,compat32,utility", "OMP_WAIT_POLICY=PASSIVE", "PANEL_GDK_CORE_DEVICE_EVENTS=0", "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin", "PULSE_RUNTIME_PATH=/var/run/pulse", "PWD=/home/kasm-user", "QT_FONTPATH=/home/kasm-user/prism/prism-p/fonts:", "QT_PLUGIN_PATH=/home/kasm-user/prism/prism-p/plugins:", "SDL_GAMECONTROLLERCONFIG=030000005e040000be02000014010000,XInput Controller,platform:Linux,a:b0,b:b1,x:b2,y:b3,back:b8,guide:b16,start:b9,leftstick:b10,rightstick:b11,leftshoulder:b4,rightshoulder:b5,dpup:b12,dpdown:b13,dpleft:b14,dpright:b15,leftx:a0,lefty:a1,rightx:a2,righty:a3,lefttrigger:b6,righttrigger:b7", "SESSION_MANAGER=local/39b59648c883:@/tmp/.ICE-unix/75,unix/39b59648c883:/tmp/.ICE-unix/75", "SHELL=/bin/bash", "SHLVL=1", "SSH_AGENT_PID=199", "SSH_AUTH_SOCK=/tmp/ssh-vN0oeEXLgZZh/agent.198", "STARTUPDIR=/dockerstartup", "START_PULSEAUDIO=1", "START_XFCE4=1", "TERM=xterm-256color", "VNCOPTIONS=-PreferBandwidth -DynamicQualityMin=4 -DynamicQualityMax=7 -DLP_ClipDelay=0 -select-de manual", "VNC_COL_DEPTH=24", "VNC_PORT=5901", "VNC_RESOLUTION=1280x1024", "VTE_VERSION=6003", "WINDOWID=48234499", "XDG_CONFIG_DIRS=/etc/xdg", "XDG_CURRENT_DESKTOP=XFCE", "XDG_DATA_DIRS=/usr/local/share:/usr/share", "XDG_MENU_PREFIX=xfce-")
+    1.594 D Native environment:
+    1.594 D ("AUDIO_PORT=4901", "COLORTERM=truecolor", "DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-24uW2yaQAr,guid=eca5c663c28e5689e8b14bc8639f66e0", "DEBIAN_FRONTEND=noninteractive", "DESKTOP_SESSION=xfce", "DISPLAY=:1.0", "HOME=/home/kasm-user", "HOSTNAME=39b59648c883", "INST_SCRIPTS=/dockerstartup/install", "KASMVNC_AUTO_RECOVER=true", "KASM_VNC_PATH=/usr/share/kasmvnc", "LANG=en_US.UTF-8", "LANGUAGE=en_US:en", "LAUNCHER_LD_LIBRARY_PATH=/home/kasm-user/prism/prism-p/lib", "LAUNCHER_LD_PRELOAD=", "LAUNCHER_QT_FONTPATH=/home/kasm-user/prism/prism-p/fonts", "LAUNCHER_QT_PLUGIN_PATH=/home/kasm-user/prism/prism-p/plugins", "LC_ALL=en_US.UTF-8", "LD_LIBRARY_PATH=/home/kasm-user/prism/prism-p/lib:/usr/lib/x86_64-linux-gnu:/usr/lib/i386-linux-gnu:/opt/libjpeg-turbo/lib64/:/usr/local/lib/:/usr/local/nvidia/lib:/usr/local/nvidia/lib64", "LD_PRELOAD=:", "MAX_FRAME_RATE=24", "NO_VNC_PORT=6901", "NVIDIA_DRIVER_CAPABILITIES=graphics,compat32,utility", "OMP_WAIT_POLICY=PASSIVE", "PANEL_GDK_CORE_DEVICE_EVENTS=0", "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin", "PULSE_RUNTIME_PATH=/var/run/pulse", "PWD=/home/kasm-user", "QT_FONTPATH=/home/kasm-user/prism/prism-p/fonts:", "QT_PLUGIN_PATH=/home/kasm-user/prism/prism-p/plugins:", "SDL_GAMECONTROLLERCONFIG=030000005e040000be02000014010000,XInput Controller,platform:Linux,a:b0,b:b1,x:b2,y:b3,back:b8,guide:b16,start:b9,leftstick:b10,rightstick:b11,leftshoulder:b4,rightshoulder:b5,dpup:b12,dpdown:b13,dpleft:b14,dpright:b15,leftx:a0,lefty:a1,rightx:a2,righty:a3,lefttrigger:b6,righttrigger:b7", "SESSION_MANAGER=local/39b59648c883:@/tmp/.ICE-unix/75,unix/39b59648c883:/tmp/.ICE-unix/75", "SHELL=/bin/bash", "SHLVL=1", "SSH_AGENT_PID=199", "SSH_AUTH_SOCK=/tmp/ssh-vN0oeEXLgZZh/agent.198", "STARTUPDIR=/dockerstartup", "START_PULSEAUDIO=1", "START_XFCE4=1", "TERM=xterm-256color", "VNCOPTIONS=-PreferBandwidth -DynamicQualityMin=4 -DynamicQualityMax=7 -DLP_ClipDelay=0 -select-de manual", "VNC_COL_DEPTH=24", "VNC_PORT=5901", "VNC_RESOLUTION=1280x1024", "VTE_VERSION=6003", "WINDOWID=48234499", "XDG_CONFIG_DIRS=/etc/xdg", "XDG_CURRENT_DESKTOP=XFCE", "XDG_DATA_DIRS=/usr/local/share:/usr/share", "XDG_MENU_PREFIX=xfce-")
+    1.594 D "Java detection" progress: 2 / 6
+    1.594 D Java checker has failed to start.
+    1.594 D Process environment:
+    1.594 D ("AUDIO_PORT=4901", "COLORTERM=truecolor", "DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-24uW2yaQAr,guid=eca5c663c28e5689e8b14bc8639f66e0", "DEBIAN_FRONTEND=noninteractive", "DESKTOP_SESSION=xfce", "DISPLAY=:1.0", "HOME=/home/kasm-user", "HOSTNAME=39b59648c883", "INST_SCRIPTS=/dockerstartup/install", "KASMVNC_AUTO_RECOVER=true", "KASM_VNC_PATH=/usr/share/kasmvnc", "LANG=en_US.UTF-8", "LANGUAGE=en_US:en", "LC_ALL=en_US.UTF-8", "LD_LIBRARY_PATH=/home/kasm-user/prism/prism-p/lib:/usr/lib/x86_64-linux-gnu:/usr/lib/i386-linux-gnu:/opt/libjpeg-turbo/lib64/:/usr/local/lib/:/usr/local/nvidia/lib:/usr/local/nvidia/lib64", "LD_PRELOAD=:", "MAX_FRAME_RATE=24", "NO_VNC_PORT=6901", "NVIDIA_DRIVER_CAPABILITIES=graphics,compat32,utility", "OMP_WAIT_POLICY=PASSIVE", "PANEL_GDK_CORE_DEVICE_EVENTS=0", "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin", "PULSE_RUNTIME_PATH=/var/run/pulse", "PWD=/home/kasm-user", "QT_FONTPATH=/home/kasm-user/prism/prism-p/fonts:", "QT_PLUGIN_PATH=/home/kasm-user/prism/prism-p/plugins:", "SDL_GAMECONTROLLERCONFIG=030000005e040000be02000014010000,XInput Controller,platform:Linux,a:b0,b:b1,x:b2,y:b3,back:b8,guide:b16,start:b9,leftstick:b10,rightstick:b11,leftshoulder:b4,rightshoulder:b5,dpup:b12,dpdown:b13,dpleft:b14,dpright:b15,leftx:a0,lefty:a1,rightx:a2,righty:a3,lefttrigger:b6,righttrigger:b7", "SESSION_MANAGER=local/39b59648c883:@/tmp/.ICE-unix/75,unix/39b59648c883:/tmp/.ICE-unix/75", "SHELL=/bin/bash", "SHLVL=1", "SSH_AGENT_PID=199", "SSH_AUTH_SOCK=/tmp/ssh-vN0oeEXLgZZh/agent.198", "STARTUPDIR=/dockerstartup", "START_PULSEAUDIO=1", "START_XFCE4=1", "TERM=xterm-256color", "VNCOPTIONS=-PreferBandwidth -DynamicQualityMin=4 -DynamicQualityMax=7 -DLP_ClipDelay=0 -select-de manual", "VNC_COL_DEPTH=24", "VNC_PORT=5901", "VNC_RESOLUTION=1280x1024", "VTE_VERSION=6003", "WINDOWID=48234499", "XDG_CONFIG_DIRS=/etc/xdg", "XDG_CURRENT_DESKTOP=XFCE", "XDG_DATA_DIRS=/usr/local/share:/usr/share", "XDG_MENU_PREFIX=xfce-")
+    1.594 D Native environment:
+    1.594 D ("AUDIO_PORT=4901", "COLORTERM=truecolor", "DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-24uW2yaQAr,guid=eca5c663c28e5689e8b14bc8639f66e0", "DEBIAN_FRONTEND=noninteractive", "DESKTOP_SESSION=xfce", "DISPLAY=:1.0", "HOME=/home/kasm-user", "HOSTNAME=39b59648c883", "INST_SCRIPTS=/dockerstartup/install", "KASMVNC_AUTO_RECOVER=true", "KASM_VNC_PATH=/usr/share/kasmvnc", "LANG=en_US.UTF-8", "LANGUAGE=en_US:en", "LAUNCHER_LD_LIBRARY_PATH=/home/kasm-user/prism/prism-p/lib", "LAUNCHER_LD_PRELOAD=", "LAUNCHER_QT_FONTPATH=/home/kasm-user/prism/prism-p/fonts", "LAUNCHER_QT_PLUGIN_PATH=/home/kasm-user/prism/prism-p/plugins", "LC_ALL=en_US.UTF-8", "LD_LIBRARY_PATH=/home/kasm-user/prism/prism-p/lib:/usr/lib/x86_64-linux-gnu:/usr/lib/i386-linux-gnu:/opt/libjpeg-turbo/lib64/:/usr/local/lib/:/usr/local/nvidia/lib:/usr/local/nvidia/lib64", "LD_PRELOAD=:", "MAX_FRAME_RATE=24", "NO_VNC_PORT=6901", "NVIDIA_DRIVER_CAPABILITIES=graphics,compat32,utility", "OMP_WAIT_POLICY=PASSIVE", "PANEL_GDK_CORE_DEVICE_EVENTS=0", "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin", "PULSE_RUNTIME_PATH=/var/run/pulse", "PWD=/home/kasm-user", "QT_FONTPATH=/home/kasm-user/prism/prism-p/fonts:", "QT_PLUGIN_PATH=/home/kasm-user/prism/prism-p/plugins:", "SDL_GAMECONTROLLERCONFIG=030000005e040000be02000014010000,XInput Controller,platform:Linux,a:b0,b:b1,x:b2,y:b3,back:b8,guide:b16,start:b9,leftstick:b10,rightstick:b11,leftshoulder:b4,rightshoulder:b5,dpup:b12,dpdown:b13,dpleft:b14,dpright:b15,leftx:a0,lefty:a1,rightx:a2,righty:a3,lefttrigger:b6,righttrigger:b7", "SESSION_MANAGER=local/39b59648c883:@/tmp/.ICE-unix/75,unix/39b59648c883:/tmp/.ICE-unix/75", "SHELL=/bin/bash", "SHLVL=1", "SSH_AGENT_PID=199", "SSH_AUTH_SOCK=/tmp/ssh-vN0oeEXLgZZh/agent.198", "STARTUPDIR=/dockerstartup", "START_PULSEAUDIO=1", "START_XFCE4=1", "TERM=xterm-256color", "VNCOPTIONS=-PreferBandwidth -DynamicQualityMin=4 -DynamicQualityMax=7 -DLP_ClipDelay=0 -select-de manual", "VNC_COL_DEPTH=24", "VNC_PORT=5901", "VNC_RESOLUTION=1280x1024", "VTE_VERSION=6003", "WINDOWID=48234499", "XDG_CONFIG_DIRS=/etc/xdg", "XDG_CURRENT_DESKTOP=XFCE", "XDG_DATA_DIRS=/usr/local/share:/usr/share", "XDG_MENU_PREFIX=xfce-")
+    1.594 D "Java detection" progress: 3 / 6
+    1.594 D Java checker has failed to start.
+    1.595 D Process environment:
+    1.595 D ("AUDIO_PORT=4901", "COLORTERM=truecolor", "DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-24uW2yaQAr,guid=eca5c663c28e5689e8b14bc8639f66e0", "DEBIAN_FRONTEND=noninteractive", "DESKTOP_SESSION=xfce", "DISPLAY=:1.0", "HOME=/home/kasm-user", "HOSTNAME=39b59648c883", "INST_SCRIPTS=/dockerstartup/install", "KASMVNC_AUTO_RECOVER=true", "KASM_VNC_PATH=/usr/share/kasmvnc", "LANG=en_US.UTF-8", "LANGUAGE=en_US:en", "LC_ALL=en_US.UTF-8", "LD_LIBRARY_PATH=/home/kasm-user/prism/prism-p/lib:/usr/lib/x86_64-linux-gnu:/usr/lib/i386-linux-gnu:/opt/libjpeg-turbo/lib64/:/usr/local/lib/:/usr/local/nvidia/lib:/usr/local/nvidia/lib64", "LD_PRELOAD=:", "MAX_FRAME_RATE=24", "NO_VNC_PORT=6901", "NVIDIA_DRIVER_CAPABILITIES=graphics,compat32,utility", "OMP_WAIT_POLICY=PASSIVE", "PANEL_GDK_CORE_DEVICE_EVENTS=0", "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin", "PULSE_RUNTIME_PATH=/var/run/pulse", "PWD=/home/kasm-user", "QT_FONTPATH=/home/kasm-user/prism/prism-p/fonts:", "QT_PLUGIN_PATH=/home/kasm-user/prism/prism-p/plugins:", "SDL_GAMECONTROLLERCONFIG=030000005e040000be02000014010000,XInput Controller,platform:Linux,a:b0,b:b1,x:b2,y:b3,back:b8,guide:b16,start:b9,leftstick:b10,rightstick:b11,leftshoulder:b4,rightshoulder:b5,dpup:b12,dpdown:b13,dpleft:b14,dpright:b15,leftx:a0,lefty:a1,rightx:a2,righty:a3,lefttrigger:b6,righttrigger:b7", "SESSION_MANAGER=local/39b59648c883:@/tmp/.ICE-unix/75,unix/39b59648c883:/tmp/.ICE-unix/75", "SHELL=/bin/bash", "SHLVL=1", "SSH_AGENT_PID=199", "SSH_AUTH_SOCK=/tmp/ssh-vN0oeEXLgZZh/agent.198", "STARTUPDIR=/dockerstartup", "START_PULSEAUDIO=1", "START_XFCE4=1", "TERM=xterm-256color", "VNCOPTIONS=-PreferBandwidth -DynamicQualityMin=4 -DynamicQualityMax=7 -DLP_ClipDelay=0 -select-de manual", "VNC_COL_DEPTH=24", "VNC_PORT=5901", "VNC_RESOLUTION=1280x1024", "VTE_VERSION=6003", "WINDOWID=48234499", "XDG_CONFIG_DIRS=/etc/xdg", "XDG_CURRENT_DESKTOP=XFCE", "XDG_DATA_DIRS=/usr/local/share:/usr/share", "XDG_MENU_PREFIX=xfce-")
+    1.595 D Native environment:
+    1.595 D ("AUDIO_PORT=4901", "COLORTERM=truecolor", "DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-24uW2yaQAr,guid=eca5c663c28e5689e8b14bc8639f66e0", "DEBIAN_FRONTEND=noninteractive", "DESKTOP_SESSION=xfce", "DISPLAY=:1.0", "HOME=/home/kasm-user", "HOSTNAME=39b59648c883", "INST_SCRIPTS=/dockerstartup/install", "KASMVNC_AUTO_RECOVER=true", "KASM_VNC_PATH=/usr/share/kasmvnc", "LANG=en_US.UTF-8", "LANGUAGE=en_US:en", "LAUNCHER_LD_LIBRARY_PATH=/home/kasm-user/prism/prism-p/lib", "LAUNCHER_LD_PRELOAD=", "LAUNCHER_QT_FONTPATH=/home/kasm-user/prism/prism-p/fonts", "LAUNCHER_QT_PLUGIN_PATH=/home/kasm-user/prism/prism-p/plugins", "LC_ALL=en_US.UTF-8", "LD_LIBRARY_PATH=/home/kasm-user/prism/prism-p/lib:/usr/lib/x86_64-linux-gnu:/usr/lib/i386-linux-gnu:/opt/libjpeg-turbo/lib64/:/usr/local/lib/:/usr/local/nvidia/lib:/usr/local/nvidia/lib64", "LD_PRELOAD=:", "MAX_FRAME_RATE=24", "NO_VNC_PORT=6901", "NVIDIA_DRIVER_CAPABILITIES=graphics,compat32,utility", "OMP_WAIT_POLICY=PASSIVE", "PANEL_GDK_CORE_DEVICE_EVENTS=0", "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin", "PULSE_RUNTIME_PATH=/var/run/pulse", "PWD=/home/kasm-user", "QT_FONTPATH=/home/kasm-user/prism/prism-p/fonts:", "QT_PLUGIN_PATH=/home/kasm-user/prism/prism-p/plugins:", "SDL_GAMECONTROLLERCONFIG=030000005e040000be02000014010000,XInput Controller,platform:Linux,a:b0,b:b1,x:b2,y:b3,back:b8,guide:b16,start:b9,leftstick:b10,rightstick:b11,leftshoulder:b4,rightshoulder:b5,dpup:b12,dpdown:b13,dpleft:b14,dpright:b15,leftx:a0,lefty:a1,rightx:a2,righty:a3,lefttrigger:b6,righttrigger:b7", "SESSION_MANAGER=local/39b59648c883:@/tmp/.ICE-unix/75,unix/39b59648c883:/tmp/.ICE-unix/75", "SHELL=/bin/bash", "SHLVL=1", "SSH_AGENT_PID=199", "SSH_AUTH_SOCK=/tmp/ssh-vN0oeEXLgZZh/agent.198", "STARTUPDIR=/dockerstartup", "START_PULSEAUDIO=1", "START_XFCE4=1", "TERM=xterm-256color", "VNCOPTIONS=-PreferBandwidth -DynamicQualityMin=4 -DynamicQualityMax=7 -DLP_ClipDelay=0 -select-de manual", "VNC_COL_DEPTH=24", "VNC_PORT=5901", "VNC_RESOLUTION=1280x1024", "VTE_VERSION=6003", "WINDOWID=48234499", "XDG_CONFIG_DIRS=/etc/xdg", "XDG_CURRENT_DESKTOP=XFCE", "XDG_DATA_DIRS=/usr/local/share:/usr/share", "XDG_MENU_PREFIX=xfce-")
+    1.595 D "Java detection" progress: 4 / 6
+    1.670 D STDOUT "os.arch=amd64\njava.version=17.0.5\njava.vendor=Oracle Corporation\n"
+    1.670 W STDERR ""
+    1.670 D Java checker finished with status  QProcess::NormalExit  exit code  0
+    1.670 D Java checker succeeded.
+    1.670 D "Java detection" progress: 5 / 6
+    1.700 D STDOUT "os.arch=amd64\njava.version=1.8.0_351\njava.vendor=Oracle Corporation\n"
+    1.700 W STDERR ""
+    1.700 D Java checker finished with status  QProcess::NormalExit  exit code  0
+    1.700 D Java checker succeeded.
+    1.700 D "Java detection" progress: 6 / 6
+    1.701 D Task "JavaCheckerJob(0x5631c4dc9000)" succeeded
+    1.701 D Found the following valid Java installations:
+    1.701 D   "1.8.0_351" "amd64" "/usr/java/jre1.8.0_351/bin/java"
+    1.701 D   "17.0.5" "amd64" "/usr/lib/jvm/jdk-17/bin/java"
+    1.701 D Task "JavaListLoadTask(0x5631c4f40f90)" succeeded
+    1.701 D Env: ignoring "LAUNCHER_LD_LIBRARY_PATH" "/home/kasm-user/prism/prism-p/lib"
+    1.701 D Env: ignoring "LAUNCHER_LD_PRELOAD" ""
+    1.701 D Env: ignoring "LAUNCHER_QT_FONTPATH" "/home/kasm-user/prism/prism-p/fonts"
+    1.701 D Env: ignoring "LAUNCHER_QT_PLUGIN_PATH" "/home/kasm-user/prism/prism-p/plugins"
+    1.701 D Env: stripped "LD_LIBRARY_PATH" "/home/kasm-user/prism/prism-p/lib:/usr/lib/x86_64-linux-gnu:/usr/lib/i386-linux-gnu:/opt/libjpeg-turbo/lib64/:/usr/local/lib/:/usr/local/nvidia/lib:/usr/local/nvidia/lib64" to "/usr/lib/x86_64-linux-gnu:/usr/lib/i386-linux-gnu:/opt/libjpeg-turbo/lib64/:/usr/local/lib/:/usr/local/nvidia/lib:/usr/local/nvidia/lib64"
+    1.701 D Env: stripped "LD_PRELOAD" ":" to ""
+    1.701 D Env: stripped "QT_FONTPATH" "/home/kasm-user/prism/prism-p/fonts:" to ""
+    1.701 D Env: stripped "QT_PLUGIN_PATH" "/home/kasm-user/prism/prism-p/plugins:" to ""
+    1.701 D "Running java checker: /usr/lib/jvm/jdk-17/bin/java-Xms512m -Xmx4096m -jar /home/kasm-user/prism/prism-p/share/prismlauncher/JavaCheck.jar"
+    1.724 D STDOUT "os.arch=amd64\njava.version=17.0.5\njava.vendor=Oracle Corporation\n"
+    1.724 W STDERR ""
+    1.724 D Java checker finished with status  QProcess::NormalExit  exit code  0
+    1.724 D Java checker succeeded.
+    3.020 D Wizard result = 1
+    3.026 D Reloading news.
+    3.026 D Task "NetJob(News RSS Feed)" starting for the first time
+    3.028 D <> Main window shown.
+    3.036 D Task "Net::Download(0x5631c4fe65b0)" starting for the first time
+    3.036 D Downloading  "https://prismlauncher.org/feed/feed.xml"
+    3.566 D Download succeeded: "https://prismlauncher.org/feed/feed.xml"
+    3.566 D Task "NetJob(News RSS Feed)" succeeded
+    3.566 D Finished loading RSS feed.
+    3.568 D Loaded news entry "Prism Launcher Release 6.0, now available"
+    3.568 D Loaded news entry "Prism Launcher Release 5.2, now available"
+    3.568 D Loaded news entry "Prism Launcher Release 5.1, now available"
+    3.568 D Loaded news entry "Prism Launcher Release 5.0, now available"
+    3.568 D Loaded news entry "PolyMC Update 1.4.2, now available"
+    3.568 D Loaded news entry "PolyMC Update 1.4.1, now available"
+    3.568 D Loaded news entry "PolyMC Update 1.4.0, now available"
+    3.568 D Loaded news entry "PolyMC Update 1.3.2, now available"
+    3.568 D Loaded news entry "PolyMC Update 1.3.1, now available"
+    3.568 D Loaded news entry "PolyMC Update 1.3.0, now available"
+    3.568 D Loaded news entry "PolyMC Update 1.2.2, now available (CurseForge Hotfix)"
+    3.568 D Loaded news entry "PolyMC Update 1.2.1, now available"
+    3.568 D Loaded news entry "PolyMC Update 1.2.0, now available"
+    3.568 D Loaded news entry "PolyMC Update 1.1.1, now available"
+    3.568 D Loaded news entry "PolyMC Update 1.1.0, now available"
+    3.568 D Loaded news entry "Moving on"
+    3.568 D Loaded news entry "Modrinth support and Mod downloading"
+    3.568 D Loaded news entry "New maintainers and step down."
+    3.568 D News loading succeeded.
